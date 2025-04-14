@@ -1,0 +1,26 @@
+import {Image} from 'react-native';
+
+export const imageData = [
+  {id: 1, Image: require('../images/img1.jpg'), title: 'goodmindsquote'},
+  {id: 2, Image: require('../images/img2.jpg'), title: 'letsblinkit'},
+  {id: 3, Image: require('../images/img3.jpg'), title: 'blackcapsnz'},
+  {id: 4, Image: require('../images/img4.jpg'), title: 'dream11'},
+  {id: 5, Image: require('../images/img5.jpg'), title: 'indiatvnews'},
+  {id: 6, Image: require('../images/img6.jpg'), title: 'jordanmanali'},
+  {id: 7, Image: require('../images/img7.jpg'), title: 'mivi'},
+  {id: 8, Image: require('../images/img8.jpg'), title: 'openai'},
+  {id: 9, Image: require('../images/img9.jpg'), title: 'goodnewtoday'},
+  {id: 10, Image: require('../images/img10.jpg'), title: 'tv9bharatvarsh'},
+  {id: 11, Image: require('../images/img11.jpg'), title: 'zomato'},
+  {id: 12, Image: require('../images/img12.jpg'), title: 'goodmindsquote'},
+  {id: 13, Image: require('../images/img14.jpg'), title: 'gfg'},
+  {id: 14, Image: require('../images/img13.jpg'), title: 'patanjali'},
+  {id: 15, Image: require('../images/img15.jpg'), title: 'goodmindsquote'},
+  {id: 16, Image: require('../images/img16.jpg'), title: 'goodmindsquote'},
+  {id: 17, Image: require('../images/img17.jpg'), title: 'goodmindsquote'},
+  {id: 18, Image: require('../images/img18.jpg'), title: 'goodmindsquote'},
+  {id: 19, Image: require('../images/img19.jpg'), title: 'goodmindsquote'},
+  {id: 20, Image: require('../images/img20.jpg'), title: 'goodmindsquote'},
+  {id: 21, Image: require('../images/img21.jpg'), title: 'goodmindsquote'},
+  {id: 22, Image: require('../images/img20.jpg'), title: 'hello'},
+];
